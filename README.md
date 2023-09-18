@@ -1,5 +1,5 @@
-# DCR
-A jerryrigged software-based Dynamic Contrast Ratio implementation
+# Dynamic Contrast Ratio
+A jerryrigged software-based Dynamic Contrast Ratio implementation for old monitors that don't support it
 
 ## Prerequisites 
 Python 3.9 (should work on older versions)

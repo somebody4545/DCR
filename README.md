@@ -2,7 +2,8 @@
 A jerryrigged software-based Dynamic Contrast Ratio implementation for old monitors that don't support it
 
 ## Prerequisites 
-Python 3.9 (should work on older versions)
+- Python 3.9 (should work on older versions)
+- Works best on Windows
 ### Packages
 ```
 pip install numpy

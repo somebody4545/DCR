@@ -13,4 +13,4 @@ pip install screeninfo
 ```
 
 ## Credits
-(Emilurenius for average screen color script)[https://github.com/Emilurenius]
+[Emilurenius for average screen color script](https://github.com/Emilurenius)

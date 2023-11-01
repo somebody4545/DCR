@@ -3,7 +3,7 @@ A jerryrigged software-based Dynamic Contrast Ratio implementation for old monit
 
 ## Prerequisites 
 - Python 3.9 (should work on older versions)
-- Works best (and probably only) on Windows 10 or above
+- Works best (and likely only) on Windows 10 or above
 ### Packages
 ```
 pip install numpy

@@ -6,11 +6,7 @@ A jerryrigged software-based Dynamic Contrast Ratio implementation for old monit
 - Works best (and likely only) on Windows 10 or above
 ### Packages
 ```
-pip install numpy
-pip install opencv-python
-pip install Pillow
-pip install screen-brightness-control
-pip install screeninfo
+pip install -r requirements.txt
 ```
 
 ## Credits
